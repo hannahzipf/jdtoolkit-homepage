@@ -16,8 +16,7 @@
   		<img class="logo" src="cherrylogo.svg">
 		</a>
 
-		<p>Take a look at my homepage </p>
-			<a href="index.html">homepage</a>.</a>
+		<p>Take a look at my homepage <a href="index.html">awesome homepage</a>.</p>
 
 		<img src="toolkitfolder/butterflyimage.jpg">
 
