@@ -93,6 +93,15 @@ img.poster {
 	margin: 1em auto;
 }
 
+img.front {
+	width: 100%;
+	height: auto;
+	max-width: 56em;
+	max-height: 70em;
+	margin: 1em auto;
+}
+
+
 .topnav {
   background-color: #FFFFFF;
   overflow: hidden;
